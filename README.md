@@ -20,7 +20,7 @@ Currently I'm looking to contribute in open-source projects, so if you think I c
 </br>
 </br>
 
-🌱 Currently learning:
+**🌱 Currently learning:**
 
 - React js
 - TypeScript
@@ -29,7 +29,7 @@ Currently I'm looking to contribute in open-source projects, so if you think I c
 
 </br>
 
-👷‍♂‍ Working with:
+**👷‍♂‍ Working with:**
 
 - JavaScript
 - React js
