@@ -6,15 +6,15 @@
 
 </br>
 
-## Contact:
-
-</br>
+### **Contact:**
 
 <div align='center'>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![gmail][gmail-shield]][gmail-url]
+
 [![portfolio][portfolio-shield]][portfolio-url]
+
+[![gmail][gmail-shield]][gmail-url]
 
 </div>
 </br>
@@ -48,7 +48,7 @@
 
 </br>
 
-My name is Manuel Escribano and I am a self taught frontend developer.
+My name is Manuel Escribano and I am a **self-taught frontend developer**.
 
 </br>
 
@@ -105,7 +105,8 @@ Currently I'm looking to **contribute in open-source projects**, so if you think
 <!-- Gmail -->
 
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: href="mailto:manuel.escribano.051@gmail.com"
+
+[gmail-url]: mailto:manuel.escribano.051@gmail.com?subject=[GitHub]
 
 <!-- Technologies -->
 
