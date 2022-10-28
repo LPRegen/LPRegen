@@ -4,23 +4,6 @@
 
 </div>
 
-</br>
-
-### **Contact:**
-
-<div align='center'>
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-[![portfolio][portfolio-shield]][portfolio-url]
-
-[![gmail][gmail-shield]][gmail-url]
-
-</div>
-</br>
-
----
-
 ![Js][js-shield]
 ![Ts][ts-shield]
 ![react][react-shield]
@@ -50,8 +33,6 @@
 
 My name is Manuel Escribano and I am a **self-taught frontend developer**.
 
-</br>
-
 I'm enthralled by the possibilities which development gives us to create different things which can have a **positive impact** in the life of people.
 Currently I'm looking to **contribute in open-source projects**, so if you think I can help you let me know!
 
@@ -76,6 +57,23 @@ Currently I'm looking to **contribute in open-source projects**, so if you think
 - Tailwind CSS.
 - SCSS.
 
+</br>
+</br>
+
+### **Contact:**
+
+<div align='center'>
+
+</br>
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![portfolio][portfolio-shield]][portfolio-url]
+[![gmail][gmail-shield]][gmail-url]
+
+</div>
+
+</br>
+</br>
 </br>
 
 <div align='center'>
