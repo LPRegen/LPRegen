@@ -44,6 +44,8 @@ Currently I'm looking to **contribute in open-source projects**, so if you think
 - React js.
 - TypeScript.
 - Next js.
+- Accessibility.
+  - WCAG.
 
 </br>
 
