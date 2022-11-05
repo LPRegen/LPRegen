@@ -90,8 +90,6 @@ Currently I'm looking to **contribute in open-source projects**, so if you think
 
 </br>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LPRegen)
-
 <!-- LinkedIn -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0072b1
