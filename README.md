@@ -75,9 +75,9 @@ Currently I'm looking to **contribute to open-source projects**, so if you think
 
 </br>
 
-<div align='center'>
-  
 ---
+
+<div align='center'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LPRegen&layout=compact)
 ![LPRegens's Github Stats](https://github-readme-stats.vercel.app/api?username=LPRegen&show_icons=true&theme=calm&hide=stars&count_private=true)
