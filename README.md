@@ -46,6 +46,7 @@ Currently I'm looking to **contribute in open-source projects**, so if you think
 - Next js.
 - Accessibility.
   - WCAG.
+- Sanity CMS.
 
 </br>
 
@@ -81,8 +82,6 @@ Currently I'm looking to **contribute in open-source projects**, so if you think
 <div align='center'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LPRegen&layout=compact)
-
-</br>
 
 ![LPRegens's Github Stats](https://github-readme-stats.vercel.app/api?username=LPRegen&show_icons=true&theme=calm&hide=stars&count_private=true)
 
