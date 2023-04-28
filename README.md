@@ -8,58 +8,24 @@
 
 My name is Manuel Escribano and I am a **self-taught frontend developer**.
 
-I'm enthralled by the possibilities which development gives us to create different things which can have a **positive impact** in the life of people.
-Currently I'm looking to **contribute to open-source projects**, so if you think I can help you let me know!
+I'm enthralled by the possibilities which development gives us to create
+different things which can have a **positive impact** in the life of people.
+Currently I'm looking to **contribute to open-source projects**, so if you think
+I can help you let me know!
 
 </br>
 
 ---
 
-![Js][js-shield]
-![Ts][ts-shield]
-![react][react-shield]
-![next][next-shield]
-![Html][html-shield]
-![CSS3][css-shield]
-![styled][styled-shield]
-![sass][sass-shield]
-![tailwind][tailwind-shield]
-![story][story-shield]
-![Webpack][webpack-shield]
-![eslint][eslint-shield]
-![jest][jest-shield]
-![NPM][npm-shield]
-![Yarn][yarn-shield]
-![md][md-shield]
-![git][git-shield]
+![Js][js-shield] ![Ts][ts-shield] ![react][react-shield] ![next][next-shield]
+![Html][html-shield] ![CSS3][css-shield] ![styled][styled-shield]
+![sass][sass-shield] ![tailwind][tailwind-shield] ![story][story-shield]
+![Webpack][webpack-shield] ![eslint][eslint-shield] ![jest][jest-shield]
+![NPM][npm-shield] ![Yarn][yarn-shield] ![md][md-shield] ![git][git-shield]
 ![gh][github-shield]
 
 ---
 
-</br>
-
-### **🌱 Currently learning:**
-
-- React js.
-- TypeScript.
-- Next js.
-- Accessibility.
-  - WCAG.
-- Sanity CMS.
-
-</br>
-
-### **👷‍♂‍ Working with:**
-
-- JavaScript.
-- React js.
-- HTML.
-- CSS.
-- Styled Components.
-- Tailwind CSS.
-- SCSS.
-
-</br>
 </br>
 
 ### **📧 Contact:**
