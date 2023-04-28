@@ -17,8 +17,6 @@ I can help you let me know!
 
 ## **💻Technologies**
 
----
-
 ![Js][js-shield] ![Ts][ts-shield] ![react][react-shield] ![next][next-shield]
 ![Html][html-shield] ![CSS3][css-shield] ![styled][styled-shield]
 ![sass][sass-shield] ![tailwind][tailwind-shield] ![story][story-shield]
