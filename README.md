@@ -15,6 +15,8 @@ I can help you let me know!
 
 </br>
 
+## **💻Technologies**
+
 ---
 
 ![Js][js-shield] ![Ts][ts-shield] ![react][react-shield] ![next][next-shield]
