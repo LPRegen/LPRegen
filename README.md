@@ -15,28 +15,41 @@ I can help you let me know!
 
 </br>
 
-## **💻Technologies**
+## **💻 Technologies**
 
 ![Js][js-shield] ![Ts][ts-shield] ![react][react-shield] ![next][next-shield]
+
 ![Html][html-shield] ![CSS3][css-shield] ![styled][styled-shield]
-![sass][sass-shield] ![tailwind][tailwind-shield] ![story][story-shield]
-![Webpack][webpack-shield] ![eslint][eslint-shield] ![jest][jest-shield]
-![NPM][npm-shield] ![Yarn][yarn-shield] ![md][md-shield] ![git][git-shield]
-![gh][github-shield]
+![sass][sass-shield] ![tailwind][tailwind-shield]
 
----
+![story][story-shield] ![jest][jest-shield] ![eslint][eslint-shield]
+![Webpack][webpack-shield] ![NPM][npm-shield] ![Yarn][yarn-shield]
+![md][md-shield]
 
-</br>
+![git][git-shield] ![gh][github-shield]
+
+## </br>
 
 ### **📧 Contact:**
-
-<div align='center'>
 
 </br>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+- <a href='https://www.linkedin.com/in/manuel-escribano-lpregen/'>Manuel
+  Escribano</a>
+
+</br>
+
 [![portfolio][portfolio-shield]][portfolio-url]
+
+- <a href='https://portfolio-lpregen.vercel.app/'>Portfolio</a>
+
+</br>
+
 [![gmail][gmail-shield]][gmail-url]
+
+- <a href='mailto:manuel.escribano.051@gmail.com'>manuel.escribano.051@gmail.com</a>
 
 </div>
 
@@ -47,7 +60,6 @@ I can help you let me know!
 <div align='center'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LPRegen&layout=compact)
-![LPRegens's Github Stats](https://github-readme-stats.vercel.app/api?username=LPRegen&show_icons=true&theme=calm&hide=stars&count_private=true)
 
 </div>
 
@@ -64,7 +76,6 @@ I can help you let me know!
 <!-- Gmail -->
 
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
 [gmail-url]: mailto:manuel.escribano.051@gmail.com?subject=[GitHub]
 
 <!-- Technologies -->
