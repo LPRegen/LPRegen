@@ -13,8 +13,6 @@ different things which can have a **positive impact** in the life of people.
 Currently I'm looking to **contribute to open-source projects**, so if you think
 I can help you let me know!
 
-</br>
-
 ## **💻 Technologies**
 
 ![Js][js-shield] ![Ts][ts-shield] ![react][react-shield] ![next][next-shield]
@@ -28,36 +26,23 @@ I can help you let me know!
 
 ![git][git-shield] ![gh][github-shield]
 
-## </br>
+![neovim][neovim-shield]
 
 ### **📧 Contact:**
 
-</br>
+<div align='center'>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-- <a href='https://www.linkedin.com/in/manuel-escribano-lpregen/'>Manuel
-  Escribano</a>
-
-</br>
-
 [![portfolio][portfolio-shield]][portfolio-url]
-
-- <a href='https://portfolio-lpregen.vercel.app/'>Portfolio</a>
-
-</br>
-
 [![gmail][gmail-shield]][gmail-url]
 
-- <a href='mailto:manuel.escribano.051@gmail.com'>manuel.escribano.051@gmail.com</a>
-
 </div>
-
-</br>
 
 ---
 
 <div align='center'>
+
+</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LPRegen&layout=compact)
 
@@ -80,23 +65,24 @@ I can help you let me know!
 
 <!-- Technologies -->
 
-[js-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[js-shield]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [ts-shield]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-[html-shield]: https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
-[css-shield]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white?
-[webpack-shield]: https://img.shields.io/badge/Webpack-blue?style=for-the-badge&logo=appveyor
+[html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[css-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[webpack-shield]: https://img.shields.io/badge/Webpack-3c52e6?style=for-the-badge&logo=Webpack&logoColor=white
 [react-shield]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[jest-shield]: https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white
+[jest-shield]: https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white
 [tailwind-shield]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-[next-shield]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
+[next-shield]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [styled-shield]: https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
-[sass-shield]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
-[story-shield]: https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white
-[eslint-shield]: https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white
-[npm-shield]: https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white
-[yarn-shield]: https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white
+[sass-shield]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+[story-shield]: https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white
+[eslint-shield]: https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white
+[npm-shield]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+[yarn-shield]: https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white
 [md-shield]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
-[git-shield]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-[github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[git-shield]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+[github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[neovim-shield]: https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white
 
 <!-- Styles -->
