@@ -20,9 +20,10 @@ I can help you let me know!
 ![Html][html-shield] ![CSS3][css-shield] ![styled][styled-shield]
 ![sass][sass-shield] ![tailwind][tailwind-shield]
 
-![story][story-shield] ![jest][jest-shield] ![eslint][eslint-shield]
+![story][story-shield] ![jest][jest-shield]
+
+![eslint][eslint-shield]
 ![Webpack][webpack-shield] ![NPM][npm-shield] ![Yarn][yarn-shield]
-![md][md-shield]
 
 ![git][git-shield] ![gh][github-shield]
 
@@ -61,6 +62,7 @@ I can help you let me know!
 <!-- Gmail -->
 
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
 [gmail-url]: mailto:manuel.escribano.051@gmail.com?subject=[GitHub]
 
 <!-- Technologies -->
@@ -80,7 +82,6 @@ I can help you let me know!
 [eslint-shield]: https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white
 [npm-shield]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
 [yarn-shield]: https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white
-[md-shield]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 [git-shield]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [neovim-shield]: https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white
