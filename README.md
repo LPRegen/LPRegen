@@ -1,21 +1,8 @@
-<div align='center'>
-
-# Nice to meet you! 👋
-
-</div>
-
-</br>
-
-My name is Manuel Escribano and I am a **self-taught front end developer**.
-
-I'm enthralled by the possibilities which development gives us to create
-different things which can have a **positive impact** in the life of people.
-Currently I'm looking to **contribute to open-source projects**, so if you think
-I can help you let me know!
-
 ## **💻 Technologies**
 
 ![Js][js-shield] ![Ts][ts-shield] ![react][react-shield] ![next][next-shield]
+
+![py][Python] ![django][django] ![sqlite][sqlite]
 
 ![Html][html-shield] ![CSS3][css-shield] ![styled][styled-shield]
 ![sass][sass-shield] ![tailwind][tailwind-shield]
@@ -29,17 +16,11 @@ I can help you let me know!
 
 ![neovim][neovim-shield]
 
-### **📫 Contact:**
-
-<div>
+## **📫 Contact:**
 
 - Portfolio: [mescribano.vercel.app](https://mescribano.vercel.app/)
 - Email: manuel.escribano.051@gmail.com
 - LinkedIn: [in/manuel-escribano-lpregen](https://www.linkedin.com/in/manuel-escribano-lpregen/)
-
-</div>
-
----
 
 <div align='center'>
 
@@ -69,6 +50,9 @@ I can help you let me know!
 [git-shield]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [neovim-shield]: https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white
-[testing-library]: https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white
+[testing-library]: https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testig-library&logoColor=white
+[SQLite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoCoor=white
+[Django]: https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 
-<!-- Styles -->
+<!-- Styes -->
