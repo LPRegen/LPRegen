@@ -6,7 +6,7 @@
 
 </br>
 
-My name is Manuel Escribano and I am a **self-taught frontend developer**.
+My name is Manuel Escribano and I am a **self-taught front end developer**.
 
 I'm enthralled by the possibilities which development gives us to create
 different things which can have a **positive impact** in the life of people.
@@ -20,7 +20,7 @@ I can help you let me know!
 ![Html][html-shield] ![CSS3][css-shield] ![styled][styled-shield]
 ![sass][sass-shield] ![tailwind][tailwind-shield]
 
-![story][story-shield] ![jest][jest-shield]
+![story][story-shield] ![jest][jest-shield] ![testing-library][testing-library]
 
 ![eslint][eslint-shield]
 ![Webpack][webpack-shield] ![NPM][npm-shield] ![Yarn][yarn-shield]
@@ -29,13 +29,13 @@ I can help you let me know!
 
 ![neovim][neovim-shield]
 
-### **📧 Contact:**
+### **📫 Contact:**
 
-<div align='center'>
+<div>
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![portfolio][portfolio-shield]][portfolio-url]
-[![gmail][gmail-shield]][gmail-url]
+- Portfolio: [mescribano.vercel.app](https://mescribano.vercel.app/)
+- Email: manuel.escribano.051@gmail.com
+- LinkedIn: [in/manuel-escribano-lpregen](https://www.linkedin.com/in/manuel-escribano-lpregen/)
 
 </div>
 
@@ -48,22 +48,6 @@ I can help you let me know!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LPRegen&layout=compact)
 
 </div>
-
-<!-- LinkedIn -->
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0072b1
-[linkedin-url]: https://www.linkedin.com/in/manuel-escribano-lpregen/
-
-<!-- Portfolio -->
-
-[portfolio-shield]: https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139
-[portfolio-url]: https://portfolio-lpregen.vercel.app/
-
-<!-- Gmail -->
-
-[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
-[gmail-url]: mailto:manuel.escribano.051@gmail.com?subject=[GitHub]
 
 <!-- Technologies -->
 
@@ -85,5 +69,6 @@ I can help you let me know!
 [git-shield]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [neovim-shield]: https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white
+[testing-library]: https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white
 
 <!-- Styles -->
