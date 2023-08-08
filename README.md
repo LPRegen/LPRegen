@@ -2,7 +2,10 @@
 
 ![Js][js-shield] ![Ts][ts-shield] ![react][react-shield] ![next][next-shield]
 
-![py][Python] ![django][django] ![sqlite][sqlite]
+![py][Python] ![django][django]
+
+![sqlite][sqlite]
+![Sanity][Sanity]
 
 ![Html][html-shield] ![CSS3][css-shield] ![styled][styled-shield]
 ![sass][sass-shield] ![tailwind][tailwind-shield]
@@ -50,9 +53,10 @@
 [git-shield]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [neovim-shield]: https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white
-[testing-library]: https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testig-library&logoColor=white
+[testing-library]: https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testig%20library&logoColor=white
 [SQLite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoCoor=white
 [Django]: https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Sanity]: https://img.shields.io/badge/Sanity-CMS?style=for-the-badge&logo=Sanity&logoColor=%23FFFFFF&color=%23F03F2E
 
 <!-- Styes -->
