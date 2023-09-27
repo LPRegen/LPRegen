@@ -15,8 +15,9 @@
 
 ![story][story-shield] ![jest][jest-shield] ![testing-library][testing-library]
 
+![Vite][vite]
 ![eslint][eslint-shield]
-![Vite][vite] ![NPM][npm-shield] ![Yarn][yarn-shield]
+![NPM][npm-shield] ![Yarn][yarn-shield]
 
 ![git][git-shield] ![gh][github-shield] ![gl][gitlab-shield]
 
